@@ -15,3 +15,5 @@ $ git add .
 $ git commit -m "any message i want"
 $ git push
 
+def hi_there():
+    print("hi")
